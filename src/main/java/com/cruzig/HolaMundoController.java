@@ -21,7 +21,9 @@ public String saludar() {
 		p1.setNombre("juan");
 		p1.setApellidos("vazquez");
 		p1.setTelefono("12345678");
+		
 		personas.add(p1);
+		
 		persona p2=new persona();
 		p1.setId(1);
 		p1.setNombre("melvin");
