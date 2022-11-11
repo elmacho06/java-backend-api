@@ -20,7 +20,7 @@ public String saludar() {
 		p1.setId(1);
 		p1.setNombre("juan");
 		p1.setApellidos("vazquez");
-		p1.setTelefono("1234567");
+		p1.setTelefono("123456798");
 		
 		personas.add(p1);
 		
